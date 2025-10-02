@@ -10,7 +10,7 @@ Part A — Build & run Node.js Express API locally
 Part B — Deploy manually on EC2
 1. Install Node.js and NPM
 2. Transfer Your Application Code
-3. Install Dependencies and Run the Application
+3. Install Dependencies (express) and Run the Application
 4. Configure Security Group and Access
 
 Part C — ⁠Deploy with script
