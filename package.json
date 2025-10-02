@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node First Project ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Sumitpal Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
